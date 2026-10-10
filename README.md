@@ -1,236 +1,175 @@
-\# Ayush Sarathe
+Ayush Sarathe
 
-
-
-\### Data Analyst | Turning Data into Business Insights
-
-
+Data Analyst | Turning Data into Business Insights
 
 I'm a Computer Science Engineering graduate building my career in Data Analytics. I enjoy exploring datasets, finding patterns, and using data to understand business and market trends.
 
-
-
 Through my projects, I've worked with SQL, Python, and Power BI to clean data, investigate questions, and present findings. I'm continuing to develop my analytical skills through hands-on projects and practical learning.
 
+Location: Bhopal, Madhya Pradesh, India
 
+Areas of Interest: Data Analytics, Business Intelligence, and Reporting
 
-\- \*\*Location:\*\* Bhopal, Madhya Pradesh, India
+Skills & Tools
 
-\- \*\*Areas of Interest:\*\* Data Analytics, Business Intelligence, and Reporting
+Programming and Data Analysis
 
+Python
 
+Pandas and NumPy
 
-\## Skills \& Tools
+SQL
 
+Business Intelligence and Visualization
 
+Power BI
 
-\*\*Programming and Data Analysis\*\*
+Matplotlib and Seaborn
 
-\- Python
+Jupyter Notebook
 
-\- Pandas and NumPy
+Databases and Tools
 
-\- SQL
+MySQL
 
+Git and GitHub
 
+Analytical Methods
 
-\*\*Business Intelligence and Visualization\*\*
+Exploratory Data Analysis (EDA)
 
-\- Power BI
+Data Cleaning and Feature Engineering
 
-\- Matplotlib and Seaborn
+Correlation and Statistical Testing
 
-\- Jupyter Notebook
+Regression Analysis
 
+Customer Segmentation and RFM Analysis
 
+Cohort and Retention Analysis
 
-\*\*Databases and Tools\*\*
+Customer Lifetime Value Analysis
 
-\- MySQL
+KPI Reporting and Dashboard Development
 
-\- Git and GitHub
+Product Performance and Pricing Analysis
 
+Featured Projects
 
+1. E-Commerce Sales & Customer Analytics System
 
-\*\*Analytical Methods\*\*
-
-\- Exploratory Data Analysis (EDA)
-
-\- Data Cleaning and Feature Engineering
-
-\- Correlation and Statistical Testing
-
-\- Regression Analysis
-
-\- Customer Segmentation and RFM Analysis
-
-\- Cohort and Retention Analysis
-
-\- Customer Lifetime Value Analysis
-
-\- KPI Reporting and Dashboard Development
-
-\- Product Performance and Pricing Analysis
-
-
-
-\## Featured Projects
-
-
-
-\### 1. E-Commerce Sales \& Customer Analytics System
-
-
-
-\*\*Tools:\*\* MySQL, SQL, Power BI
-
-
+Tools: MySQL, SQL, Power BI
 
 An end-to-end data analytics project focused on e-commerce sales, customer purchasing behavior, product performance, payment activity, and business KPIs. The project uses generated data for learning and portfolio purposes.
 
+Key Work
 
+Created a relational database containing customers, products, orders, order items, and payments.
 
-\*\*Key Work\*\*
+Wrote SQL queries and developed analytical views for business reporting and analysis.
 
-\- Created a relational database containing customers, products, orders, order items, and payments.
+Analyzed revenue, order status, payment performance, product performance, and inventory risk.
 
-\- Wrote SQL queries and developed analytical views for business reporting and analysis.
+Performed RFM analysis, customer segmentation, cohort and retention analysis, customer lifetime value analysis, and ABC/Pareto product analysis.
 
-\- Analyzed revenue, order status, payment performance, product performance, and inventory risk.
+Connected SQL analytical views to Power BI and built two dashboard pages: Executive Overview and Customer & Product Analysis.
 
-\- Performed RFM analysis, customer segmentation, cohort and retention analysis, customer lifetime value analysis, and ABC/Pareto product analysis.
+Selected Results
 
-\- Connected SQL analytical views to Power BI and built two dashboard pages: Executive Overview and Customer \& Product Analysis.
+Metric
 
+Result
 
+Realized Revenue
 
-\*\*Selected Results\*\*
+₹29,00,475
 
+Total Orders
 
+1,500
 
-| Metric | Result |
+Delivered Orders
 
-|---|---:|
+1,260
 
-| Realized Revenue | ₹29,00,475 |
+Cancellation Rate
 
-| Total Orders | 1,500 |
+8.0%
 
-| Delivered Orders | 1,260 |
+Average Order Value
 
-| Cancellation Rate | 8.0% |
+₹2,302
 
-| Average Order Value | ₹2,302 |
+Units Sold
 
-| Units Sold | 2,675 |
+2,675
 
+These figures come from a generated dataset and do not represent the performance of a real company.
 
+View E-Commerce Sales & Customer Analytics System on GitHub
 
-\*These figures come from a generated dataset and do not represent the performance of a real company.\*
+2. PropertyLens — Residential Real Estate Market & Pricing Analytics
 
-
-
-\[View E-Commerce Sales \& Customer Analytics System on GitHub](https://github.com/sh29sarathe/e-commerce-sales-customer-analytics)
-
-
-
-\---
-
-
-
-\### 2. PropertyLens — Residential Real Estate Market \& Pricing Analytics
-
-
-
-\*\*Tools:\*\* Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, Jupyter Notebook
-
-
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, Jupyter Notebook
 
 A data analytics project exploring residential property listings in Gurugram, India. The analysis examines pricing patterns across localities, property types, configurations, construction status, and RERA approval.
 
+Key Work
 
+Removed 5,290 exact duplicate records from 19,515 original listings, retaining 14,225 records for analysis.
 
-\*\*Key Work\*\*
+Analyzed property prices, area, price per square foot, BHK configurations, property types, and locality-level differences.
 
-\- Removed 5,290 exact duplicate records from 19,515 original listings, retaining 14,225 records for analysis.
+Compared RERA-approved and non-approved listings, as well as ready-to-move and under-construction properties.
 
-\- Analyzed property prices, area, price per square foot, BHK configurations, property types, and locality-level differences.
+Used Pearson and Spearman correlation, statistical tests, and ordinary least squares (OLS) regression to examine relationships between property prices and selected characteristics.
 
-\- Compared RERA-approved and non-approved listings, as well as ready-to-move and under-construction properties.
+Analyzed price segments and relative pricing across localities.
 
-\- Used Pearson and Spearman correlation, statistical tests, and ordinary least squares (OLS) regression to examine relationships between property prices and selected characteristics.
+Created eight visualizations and documented the analysis in Jupyter Notebooks.
 
-\- Analyzed price segments and relative pricing across localities.
+Selected Findings
 
-\- Created eight visualizations and documented the analysis in Jupyter Notebooks.
+Median listed property price: ₹2.62 crore.
 
+The ₹2–5 crore price segment accounted for 39.21% of the cleaned listings.
 
+Sector 65 had the highest listing volume, with 857 listings.
 
-\*\*Selected Findings\*\*
+Among localities with at least 20 listings, Sector 42 had the highest median listed price and median price per square foot.
 
-\- Median listed property price: ₹2.62 crore.
+The OLS regression model had an R² of approximately 0.684 across 14,225 observations.
 
-\- The ₹2–5 crore price segment accounted for 39.21% of the cleaned listings.
+These findings describe the available listings, not the entire Gurugram property market. The observed relationships do not establish causation, and the reported R² is not a measure of out-of-sample prediction accuracy.
 
-\- Sector 65 had the highest listing volume, with 857 listings.
+View PropertyLens on GitHub
 
-\- Among localities with at least 20 listings, Sector 42 had the highest median listed price and median price per square foot.
+Courses & Professional Development
 
-\- The OLS regression model had an R² of approximately 0.684 across 14,225 observations.
+Data Analytics Job Simulation — Deloitte
 
+AWS Cloud Engineer — SkillMap
 
+Ultimate Job-Ready AI-Powered Data Analytics Course — CodeWithHarry (Completed)
 
-\*These findings describe the available listings, not the entire Gurugram property market. The observed relationships do not establish causation, and the reported R² is not a measure of out-of-sample prediction accuracy.\*
+Ultimate Job-Ready Data Science Course — CodeWithHarry (In Progress)
 
+Current Focus
 
+Strengthening SQL and Python for data analysis.
 
-\[View PropertyLens on GitHub](https://github.com/sh29sarathe/PropertyLens-Residential-Real-Estate-Analytics)
+Improving data exploration and statistical analysis skills.
 
+Developing clear reports and dashboards in Power BI.
 
+Applying analytical methods to practical business and market questions.
 
-\## Courses \& Professional Development
+Connect With Me
 
+Email: ayushsarathe2907@gmail.com
 
+LinkedIn: Ayush Sarathe
 
-\- \*\*Data Analytics Job Simulation\*\* — Deloitte
-
-\- \*\*AWS Cloud Engineer\*\* — SkillMap
-
-\- \*\*Ultimate Job-Ready AI-Powered Data Analytics Course\*\* — CodeWithHarry \*(Completed)\*
-
-\- \*\*Ultimate Job-Ready Data Science Course\*\* — CodeWithHarry \*(In Progress)\*
-
-
-
-\## Current Focus
-
-
-
-\- Strengthening SQL and Python for data analysis.
-
-\- Improving data exploration and statistical analysis skills.
-
-\- Developing clear reports and dashboards in Power BI.
-
-\- Applying analytical methods to practical business and market questions.
-
-
-
-\## Connect With Me
-
-
-
-\- \*\*Email:\*\* \[ayushsarathe2907@gmail.com](mailto:ayushsarathe2907@gmail.com)
-
-\- \*\*LinkedIn:\*\* \[Ayush Sarathe](https://www.linkedin.com/in/ayush-sarathe-20576523a)
-
-\- \*\*GitHub:\*\* \[sh29sarathe](https://github.com/sh29sarathe)
-
-
-
-\---
-
-
+GitHub: sh29sarathe
 
 Thanks for visiting my profile. Feel free to explore my projects and repositories.
-
