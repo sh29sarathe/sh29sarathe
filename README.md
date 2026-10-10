@@ -2,7 +2,7 @@
 
 ### Data Analyst | Turning Data into Business Insights
 
-I'm a Computer Science Engineering graduate building my career in Data Analytics. I enjoy exploring datasets, finding patterns, and using data to understand business and market trends.
+I am a Computer Science Engineering graduate building my career in Data Analytics. I enjoy exploring datasets, finding patterns, and using data to understand business and market trends.
 
 Through my projects, I've worked with SQL, Python, and Power BI to clean data, investigate questions, and present findings. I'm continuing to develop my analytical skills through hands-on projects and practical learning.
 
